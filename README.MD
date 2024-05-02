@@ -31,3 +31,20 @@ Should get the below output
 [✓] Connected device (1 available): This shows that there is at least one device connected that can be used for development.
 ```
 
+</details>
+
+<details>
+<summary>First App</summary>  
+
+1. To create a new Flutter project
+```sh
+flutter create <project_name>
+``` 
+
+2. Go to `main.dart` inside the `lib` directory
+3. Above the `main()` click on `Run`
+4. Choose the preferred device to Run the app.
+
+</details>
+
+
