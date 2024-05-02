@@ -1,27 +1,21 @@
-# Flutter Learning
+# Flutter
 
 <details>
-<summary>Step 1</summary>    
+<summary>Installation</summary>   
 
-Go to [Flutter Dev](https://flutter.dev/)
+1. Go to [Flutter Dev](https://flutter.dev/)
+2. Click [Get Started](https://docs.flutter.dev/get-started/install)
+3. [Android setup](https://docs.flutter.dev/get-started/install/macos/mobile-android?tab=download)
+   - Download Android Studio
+   - Install Git
+   - Download and Install the flutter sdk
+   - Set up the Android emulator
+4. [Ios setup](https://docs.flutter.dev/get-started/install/macos/mobile-ios?tab=download)
+   - Download Xcode
+   - Download Cocopods(package manager for ios)
+5. Download Vs code.
 
-</details>
-
-<details>
-<summary>Step 2</summary>    
-
-1. Download Xcode
-2. Download Cocopods(package manager for ios)
-3. Download Vscode
-4. Download and Install the flutter sdk
-5. Download Android Studio
-</details>
-
-
-<details>
-<summary>Step 3</summary>    
-
-- Run
+- Finally, Run
  ```sh
  flutter doctor
  ```
@@ -37,4 +31,3 @@ Should get the below output
 [✓] Connected device (1 available): This shows that there is at least one device connected that can be used for development.
 ```
 
-</details>
